@@ -1,6 +1,6 @@
 # Heart-Disease-Classification-UCI
 
-# **Notebook Documentation:**
+## *Notebook Documentation:*
 
 ## **1. Introduction:**
 
@@ -9,8 +9,11 @@ This repository provides a comprehensive overview of the steps taken to analyze 
 Dataset Description:
 
 Dataset Name: Heart Disease UCI
+
 Source: UCI Machine Learning Repository
+
 Link: Heart Disease
+
 https://archive.ics.uci.edu/dataset/45/heart+disease
 
 
